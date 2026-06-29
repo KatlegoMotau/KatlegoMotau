@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a final-year Information Technology student at **Tshwane University of Technology (TUT)** with a strong passion for software development, artificial intelligence, and building solutions that solve real-world problems.
+I'm a final-year Computer Science student at **Tshwane University of Technology (TUT)** with a strong passion for software development, artificial intelligence, and building solutions that solve real-world problems.
 
 I'm currently seeking a **Work Integrated Learning (WIL)** opportunity to complete my qualification and gain practical industry experience. I'm eager to contribute to innovative teams while continuing to grow as a software developer.
 
